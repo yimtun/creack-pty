@@ -1,3 +1,3 @@
-module github.com/creack/pty
+module github.com/yimtun/creack-pty
 
 go 1.13
