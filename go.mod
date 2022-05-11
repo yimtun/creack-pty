@@ -1,3 +1,3 @@
-module github.com/yimtun/creack-pty
+module sshServer/vendor/github.com/yimtun/creack-pty
 
-go 1.13
+go 1.16
